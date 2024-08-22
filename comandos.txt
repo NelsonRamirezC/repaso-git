@@ -1,0 +1,10 @@
+git config --list
+
+
+git cofig --global user.name "Pedro Soto"
+git config --global user.email micorreo@dominio.cl
+
+
+trabajando con git
+
+1.- git init -> inicializar el repositorio
