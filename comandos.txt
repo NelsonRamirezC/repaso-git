@@ -8,3 +8,6 @@ git config --global user.email micorreo@dominio.cl
 trabajando con git
 
 1.- git init -> inicializar el repositorio
+2.- git add . -> agregar al área de preparación (stage)
+3.- git commit -m "iniciando el proyecto" -> crear las versión
+4.- git status -> verificar cambios
