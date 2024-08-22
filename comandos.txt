@@ -17,4 +17,4 @@ VINCULAR REPOSITORIO LOGAL CON EL REMOTO
 
 5.- git remote add origin git@github.com:NelsonRamirezC/repaso-git.git
 6.- git remote -v -> validar si se registró el origin
-7.- git push origin main
+7.- git push origin main  -> enviar versiones locales al repositorio remoto
