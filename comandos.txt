@@ -11,3 +11,10 @@ trabajando con git
 2.- git add . -> agregar al área de preparación (stage)
 3.- git commit -m "iniciando el proyecto" -> crear las versión
 4.- git status -> verificar cambios
+5.- git log -> verificar los cambios / versiones
+
+VINCULAR REPOSITORIO LOGAL CON EL REMOTO
+
+5.- git remote add origin git@github.com:NelsonRamirezC/repaso-git.git
+6.- git remote -v -> validar si se registró el origin
+7.- git push origin main
